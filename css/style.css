@@ -11,10 +11,9 @@ html, body {
      display: grid;
      grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
      justify-items: center; 
- }
+   }
  
- .display p {
-   color: rgb(48, 85, 138);
-   font-size: 3rem;
- 
- }
+   .display p {
+     color: rgb(48, 85, 138);
+     font-size: 3rem;
+   }

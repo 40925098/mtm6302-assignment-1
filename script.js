@@ -38,3 +38,4 @@ for ( const emojiCode of $listOfEmojiCode) {
     buttonCounter ++
 
 }
+
